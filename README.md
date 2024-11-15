@@ -30,7 +30,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 For any inquiries, please contact us at ronniemutalya36@gmail.com & itpath721@gmail.com
-Check out the almost completed interface via  itpathfoods.netlify.app
 
 ---
  
