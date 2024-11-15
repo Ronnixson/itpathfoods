@@ -30,9 +30,10 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 For any inquiries, please contact us at ronniemutalya36@gmail.com & itpath721@gmail.com
+Check out the almost completed interface via  itpathfoods.netlify.app
 
 ---
-We are excited to share that the front-end part of our restaurant website is almost complete and live! You can check it out at itpathfoods.netlify.app.
+ 
 
 Thank you for visiting our restaurant website repository! We hope you enjoy using it as much as we enjoyed building it.
 ....................................................................NOTE: I havent optimised the backend system yet. still on front end side...................
